@@ -1,10 +1,8 @@
-# Legal Insight Hub: Agentic AI for Legal Workflows
+# Legal Document Analysis System
 
 An advanced, privacy-first web application designed to automate complex legal document analysis. By bridging the gap between passive reading and active execution, Legal Insight Hub utilizes a **fine-tuned Llama 3.1 8B model** to evaluate legal risks, strategize due diligence, and execute real-world agentic tasks like scheduling and email drafting.
 
-**🔗 [Live Demo: Legal Insight Hub](https://legal-insight-hub-eosin.vercel.app/)**
-
-![Legal Insight Hub Interface](public/og-image.png) *(Note: Replace with your actual screenshot)*
+**🔗 [Live Demo: Legal Document Analysis System](https://legal-insight-hub-eosin.vercel.app/)**
 
 ## 🧠 Model Architecture
 
@@ -78,7 +76,7 @@ Traditional AI requires users to copy and paste responses. Our **Action Agents**
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:5173`.
+5. Open your browser and navigate to the respective port.
 
 ---
 
