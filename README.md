@@ -84,4 +84,3 @@ Traditional AI requires users to copy and paste responses. Our **Action Agents**
 The app features a lightweight, simulated authentication system perfect for demonstrations. By leveraging user-scoped `localStorage` keys, documents and chat histories are completely isolated between users on the same device without the need for a heavy SQL database backend.
 
 ---
-*Created as a Master's Degree Project exploring the capabilities of Agentic Workflows and Fine-Tuned LLMs in the Legal Tech domain.*
